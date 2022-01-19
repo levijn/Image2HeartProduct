@@ -1,10 +1,6 @@
 # Image to Heart 
-
-
 ## Introduction
 The goal of this project is to automatically segment the heart of a patient. This is done by training a   fully convolutional network on labeled MRI scans of the heart.  
-
-
 <br/>
 
 ## Setting up the project
@@ -45,7 +41,6 @@ Then run the following command:
 ```
 pip install -r requirements.txt
 ```
-
 <br/>
 
 *For further information about creating a virtual environment you can look at some tutorials or the python documentation.*
