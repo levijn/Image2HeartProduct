@@ -11,7 +11,7 @@ The goal of this project is to automatically segment the heart of a patient. Thi
 To use this code you first have to make a virtual environment in the same folder you placed this repository. Make sure to name it venv so git knows to ignore it. To create a virtual environment you can look at some tutorials or the python documentation. The command for it is:
 
 ```
-python -m venv venv
+py -m venv venv
 ```
 
 **Downloading packages**
