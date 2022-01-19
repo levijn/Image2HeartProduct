@@ -46,6 +46,8 @@ Then run the following command:
 pip install -r requirements.txt
 ```
 
+<br/>
+
 *For further information about creating a virtual environment you can look at some tutorials or the python documentation.*
 
 <br/>
