@@ -129,7 +129,7 @@ def training_model(test_size=0.2, num_epochs=10, batch_size=4, learning_rate=[0.
         for i, loss_type in enumerate(loss_list):
             f.write(f"{loss_name_list[i]}\n")
             for j, lr in enumerate(loss_type):
-                f.write(str(learning_rate[j]) + " = " + str(lr) + "\n")
+                f.write("lr" + str(learning_rate[j]*10000) + " = " + str(lr) + "\n")
 
 
 

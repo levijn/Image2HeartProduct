@@ -10,7 +10,7 @@ from pathlib import Path
 # Saves the location of the root and data directory
 root_dir = Path(__file__).resolve().parent
 preprocessing_dir = root_dir / "Preprocessing"
-data_dir = root_dir.parent.parent / "Data"
+data_dir = root_dir.parent / "Data"
 array_dir = data_dir / "slice_arrays"
 image_dir = data_dir / "slice_images"
 simpledata_dir = data_dir / "simpledata"
