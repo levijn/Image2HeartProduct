@@ -32,15 +32,13 @@ In your Command Prompt enter the command:
 ```
 venv\Scripts\activate.bat
 ```
-Your Command Prompt should now be in the format: 
-
-'(venv) C:\\.....\Image2HeartProduct>'
+Your Command Prompt should now be in the format:  '(venv) C:\\.....\Image2HeartProduct>'
 
 <br/>
 
 **Downloading the packages**
 
-In the 'Image2HeartProduct' folder you will find a 'requirements.txt' file. These are the packages required to run the code. To automatically download the packages first make sure you are still in the Command Prompt that is still in the format: '(venv) C:\\.....\Image2HeartProduct>'
+In the 'Image2HeartProduct' folder you will find a 'requirements.txt' file. These are the packages required to run the code. To automatically download the packages first make sure you are still in the Command Prompt that is still in the format:  '(venv) C:\\.....\Image2HeartProduct>'
 
 Then run the following command:
 
