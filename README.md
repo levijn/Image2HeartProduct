@@ -28,7 +28,7 @@ This will create a new folder in the explorer named 'venv'. Do not change this n
 
 After the creation of the virtual environment 'venv' it needs to get activated to work in it. This can be done by doing the following:
 
-In your Command Prompt enter the command:
+In your Command Prompt (still in format: 'C:\\.....\Image2HeartProduct>') enter the command:
 ```
 venv\Scripts\activate.bat
 ```
