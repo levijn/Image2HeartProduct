@@ -116,7 +116,7 @@ def save_all_slices_array(array_location):
         lbl_array = lbl.get_fdata()
         img_slices, lbl_slices = convert_nifti_to_slices(img_array, lbl_array)
         
-        patient_str = create_four_digit_num_str(int(1+i/4))
+        patient_str = create_four_digit_num_str(int(1+i/2))
         
         for slice_name in img_slices:
             name = f"patient{patient_str}_{slice_name}"
